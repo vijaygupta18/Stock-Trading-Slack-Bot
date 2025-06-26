@@ -1,0 +1,25 @@
+# Core Dependencies
+yfinance>=0.2.18
+pandas>=2.0.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# AI/ML Dependencies
+google-generativeai>=0.3.0
+
+# Communication
+slack-sdk>=3.21.0
+
+# Scheduling and Time
+schedule>=1.2.0
+pytz>=2023.3
+
+# Optional: Advanced Technical Analysis
+# Uncomment the line below if you want enhanced technical indicators
+# TA-Lib>=0.4.25
+
+# Development and Testing (optional)
+# pytest>=7.4.0
+# black>=23.7.0
+# flake8>=6.0.0 
